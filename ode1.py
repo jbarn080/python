@@ -6,7 +6,7 @@ Created on Thu Nov  8 21:58:13 2018
 ODE example
 
 dx/dt = x - y + (xy/1000)
-dy/dt = 4x - 2y + 4
+dy/dt = 4x - 2y
 
 """
 
